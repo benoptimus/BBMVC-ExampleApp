@@ -1,0 +1,59 @@
+<loader version="1.0">
+	<application id="example">
+		<name >
+			World Fact Book
+		</name>
+		<description >
+			It&apos;s a example application to demonstrate the BBMVC framework
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Moon Monkey Labs
+		</vendor>
+		<copyright >
+			Copyright (c) 2014 Moon Monkey Labs
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				example.cod
+
+			</files>
+
+		</fileset>
+		<application id="bbmvc">
+			<name >
+				
+			</name>
+			<description >
+				BBMVC Framework
+			</description>
+			<version >
+				1.0.0
+			</version>
+			<vendor >
+				Moon Monkey Labs
+			</vendor>
+			<copyright >
+				Copyright (c) 2014 Moon Monkey Labs
+			</copyright>
+			<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+				<directory >
+					7.1.0
+				</directory>
+				<files >
+					bbmvc.cod
+
+				</files>
+
+			</fileset>
+
+		</application>
+
+	</application>
+
+</loader>
